@@ -1,13 +1,15 @@
-import { useState } from 'react'
-import ReadinessQ from './components/Questionnaires/ReadinessQ'
-import './App.css'
+import ReadinessQ from "./components/Questionnaire/ReadinessQ";
+import "./App.css";
 
-function App() {
-  return (
-    <div className="App">
-      <ReadinessQ />
-    </div>
-  )
+//============================================================================//
+function Layout({ children }: { children: React.ReactNode }) {
+  return <div style={{ maxWidth: "1300px", margin: "0 auto" }}>{children}</div>;
 }
-
-export default App
+//============================================================================//
+export default function App() {
+  return (
+    <Layout>
+      <ReadinessQ />
+    </Layout>
+  );
+}

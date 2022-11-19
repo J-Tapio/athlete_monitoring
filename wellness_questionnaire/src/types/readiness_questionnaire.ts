@@ -9,7 +9,7 @@ export type Publication = {
 };
 
 // Categories
-type Categories =
+export type Categories =
   | "Fatigue"
   | "Muscle Soreness"
   | "Sleep Quality"
