@@ -8,7 +8,6 @@ export type Publication = {
   authorAndTitle: string;
 };
 
-// Categories
 export type Categories =
   | "Fatigue"
   | "Muscle Soreness"
@@ -16,7 +15,6 @@ export type Categories =
   | "Stress"
   | "Mood";
 
-// Specific category and answer options
 export type CategoryAndOptions = {
   category: Categories;
   answerOptions: AnswerOptions;

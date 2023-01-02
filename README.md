@@ -1,16 +1,18 @@
-# Athlete Monitoring / Rehabilitation / Physiotherapy
+# Athlete Monitoring - Rehabilitation - Physiotherapy
 
 ## About Project
 
-Transferring most often used questionnaires into usable React components one by one. Mostly will include questionnaires, which I have found to be useful / used within studies.
+Goal is to transfer most often used questionnaires into usable React components one by one. Mostly will include questionnaires, which I have found to be useful and/or used within studies.
 
-Starting project with wellness questionnaire which is suitable for athlete monitoring before training session to collect data about athlete readiness and current body areas of concern (injury, pain).
+Started project with a wellness questionnaire by *McLean et al. (2010)* which is suitable for athlete monitoring before training session to collect data about athlete readiness and current body areas of concern (injury, pain).
 
-Possibly will add few more sports related questionnaires and move on to add validated Physiotherapy / Rehabilitation related questionnaires.
+Possibly will add few more sports related questionnaires and move on to add validated Physiotherapy and Rehabilitation related questionnaires.
 
-Issue with questionnaires is always the feasibility to use in other language other than the original language the questionnaire was created.
+Issue with questionnaires is always the feasibility to use in other language other than the original language the questionnaire was created and studied.
 
-Translating quetionnaires to other languages is always a difficult task and more often translation of questionnaire(s) should be studied/validated to make sure that translation is feasible within the cultural context where used.
+Translating quetionnaires to other languages is always a difficult task and more often translation of questionnaire(s) should be studied and validated to make sure that translation is feasible within the cultural context where used.
+
+If there are fellow developers with Sports & Physiotherapy background who would like to contribute and collaborate to take this project further, please reach me out :smile:
 
 ## Athlete Questionnaires
 
@@ -27,3 +29,13 @@ Translating quetionnaires to other languages is always a difficult task and more
 * STarT Back
 * Functional Rating Index
 * ?
+
+### Preview
+
+Preview of currently ready questionnaire(s)
+
+#### Wellness Questionnaire
+
+[Wellness Questionnaire preview](https://ik.imagekit.io/htg3gsxgz/questionnaires/wellness_q_G2TbbgQMH.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1672651279664)
+
+![Wellness Questionnaire](https://ik.imagekit.io/htg3gsxgz/questionnaires/wellness_q_G2TbbgQMH.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1672651279664)
